@@ -2,3 +2,4 @@
 6. Semester Coding Abgabe
 
 AR Schnitzeljagd durch Darmstadt.
+Genannte Namen in der App sind nur exemplarisch. Zu gewinnen sind keine realen Preise.
